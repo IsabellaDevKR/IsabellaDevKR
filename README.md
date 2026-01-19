@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on an Anticheat project<br> I’m currently learning F# <br> Ask me about Gamehacking and Reverse engineering<br> Fun fact: Reverse engineering was once used by the CIA to replicate Soviet technology during the Cold War.
+ I’m currently working at ACE<br> I’m currently learning Ruby <br> Ask me about Gamehacking and Reverse engineering<br> Fun fact: Reverse engineering was once used by the CIA to replicate Soviet technology during the Cold War.
 
 
 ## 🌐 Socials:
